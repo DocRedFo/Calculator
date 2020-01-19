@@ -8,6 +8,7 @@ import android.widget.EditText;
 
 public class Fragment extends androidx.fragment.app.Fragment {
 
+
     public static EditText calculator;
 
     @Override
